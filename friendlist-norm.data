@@ -1,0 +1,15 @@
+// Friend List
+// Format::  Name : Group Number : Phone : email : profile picture
+// Group Number Family:1 , School:2 , Job 3 
+//
+One:1:1-11-11:one@cau.ac.kr:one.jpg
+//
+two:2:010-222-2222:two@naver.com:two.jpeg
+//
+THREE:3:3-3-3:3@daum.net:3.jpg
+//
+four:4:070-4-4:FOUR@google.com:four.png
+//
+six:6:6-6-222:6@cau.ac.kr:666.png
+//
+seven:7:010-7777-7777:7@cau.ac.kr:777.png
